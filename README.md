@@ -63,12 +63,23 @@ link : https://kali.download/nethunter-images/current/rootfs
         - `cd kali-nethunter-installer-termux`
         - now run the script ;)
 ### recommend and tested image :
-  - https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz
+  - https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz (1.9GB file) 🗃️
 
     - checksum hash's:
       - https://kali.download/nethunter-images/current/rootfs/SHA256SUMS (all) 🗄️
-      - https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.sha512sum (1.9GB file) 🗃️
+      - https://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.sha512sum 🗃️
+        
      
 #### Summary:
-    - when you install successful 
+
+  - when you install successful run
+     
+     - `nh`
+   
+  - then type:
+    
+    - `kex &`
+      
+  - now go to nethunter kex set port showed on termux and type your password 🔑 and click connect ;)
+    
 
