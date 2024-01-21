@@ -16,3 +16,5 @@
 
 ♪ first go to download termux from ![F-Droid][https://f.com]
 
+* download & install [Nethunter Kex](https://iodroid-download.net/downl/nethunter-kex.apk) 
+
