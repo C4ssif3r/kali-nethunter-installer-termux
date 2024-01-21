@@ -6,15 +6,19 @@
 + Let's go to `install nethunter on our termux` 😉
 
 
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
 
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 #### installation and requirements:
 
-♪ first go to download termux from ![F-Droid][https://f.com]
+♪ first go to download termux from [F Droid](https://f-droid.org/packages/com.termux/)
 
 * download & install [Nethunter Kex](https://iodroid-download.net/downl/nethunter-kex.apk) 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
